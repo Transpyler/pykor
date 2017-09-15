@@ -16,7 +16,7 @@ class PyKorTranspyler(Transpyler):
     translations = dict(TRANSLATIONS)
     translations.update(SEQUENCE_TRANSLATIONS)
     error_dict = ERROR_GROUPS
-    lang = 'ko'
+    lang = 'ko_KR'
 
 
 PyKorTranspyler.banner = \

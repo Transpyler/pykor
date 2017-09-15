@@ -26,8 +26,8 @@ Transpyler 프로젝트 도구를 사용하여 Python 용 번역 버전을 만�
 .. code-block:: pykor
 
     x, y = 1, 1
-    에 x 에서 range(10):
+    에 x 에서 범위(10):
         x, y = x + y, y
-        print(x)
+        인쇄(x)
 
 (경고 : google translate로 번역)
